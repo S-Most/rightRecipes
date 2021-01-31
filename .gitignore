@@ -1,8 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/rightrecipes
-/node_modules
+rightrecipes
+node_modules
 /.pnp
 .pnp.js
 
